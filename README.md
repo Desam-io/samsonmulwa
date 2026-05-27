@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samson</h1>
 <h3 align="center">A software engineer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsonmulwa&label=Profile%20views&color=0e75b6&style=flat" alt="samsonmulwa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsonmulwa&label=Profile%20views&color=0e75b6&style=flat" alt="Desam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsonmulwa" alt="samsonmulwa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Desam" alt="Desam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
